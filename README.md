@@ -1,4 +1,4 @@
-## JavaScript Full-Stack Bootcamp | ⭐️ | UNDEFINED UNIVERSITY
+## JavaScript Full-Stack Bootcamp | ⭐️ | UNDEFINED ACADEMY
 ### 🎓 by Guillermo Rodas
 
 ### 🌱 16 weeks learning about:
